@@ -13,21 +13,22 @@
 ## 2. Web Development Fundamentals
 |Resource|Progress|
 |---|---|
-| []() | ⬜️ |
+| [Youtube: What happens when you type google.com into your browser and press enter? (Detailed Analysis)](https://www.youtube.com/watch?v=dh406O2v_1c) | ⬜️ |
 
 ---
 ## 3. Database (PostgresSQL/ORM)
 |Resource|Progress|
 |---|---|
-| [Youtube: SQLAlchemy Crash Course - Master Databases in Python](https://www.youtube.com/watch?v=529LYDgRTgQ&t=214s) | ⬜️ |
-| [Youtube: SQLAlchemy Crash Course - Master Databases in Python](https://www.youtube.com/watch?v=529LYDgRTgQ&t=214s) | ⬜️ |
+| [Youtube: SQLAlchemy Crash Course - Master Databases in Python](https://www.youtube.com/watch?v=529LYDgRTgQ&t=214s) | ✅ |
 | [Youtube: FastAPI SQLAlchemy Tutorial 2025 — Build a REST API with SQL](https://www.youtube.com/watch?v=xq1Snezb1rs) | ⬜️ |
+| [Documentation: ORM Quick Start](https://docs.sqlalchemy.org/en/20/orm/quickstart.html) | ⬜️ |
 
 ---
 ## 4. Web Framework (FastAPI)
 |Resource|Progress|
 |---|---|
-| []() | ⬜️ |
+| [Documentation: User Guide](https://fastapi.tiangolo.com/tutorial/) | ⬜️ |
+| [Youtube: Learn Fast API With This ONE Project](https://www.youtube.com/watch?v=SR5NYCdzKkc) | ⬜️ |
 
 ---
 ## 5. Backend Engineering
@@ -37,7 +38,7 @@
 | [NOTEBOOK](https://calebcurry.notion.site/YouTube-Videos-22570040f3698088ab22dc120c9f4df0) | ⬜️ |
 
 ---
-## 8. Others
+## 8. Miscellaneous
 |Resource|Progress|
 |---|---|
 | [Article: Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://www.freecodecamp.org/news/command-line-for-beginners/) | ⬜️ |
