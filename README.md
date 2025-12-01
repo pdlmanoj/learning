@@ -12,13 +12,15 @@ A running log of things I'm learning to build strong core software engineering s
 | [Youtube: CampusX Python (Playlist)](https://www.youtube.com/watch?v=1z5-O7-5AXk&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z) | ✅ |
 
 #### Design Pattern
-| [Article: Python Design Patterns](https://python-patterns.guide/) | ⬜️ |
+|Resource|Progress|
+|---|---|
+| [Article: Python Design Patterns](https://python-patterns.guide/) | `/5` ⬜️ |
 
 ### Data Structures and Algorithms
 |Resource|Progress|
 |---|---|
 | [Youtube: Data Structures and Algorithms using Python](https://www.youtube.com/watch?v=f9Aje_cN_CY) | ⬜️ |
-| [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | ⬜️ |
+| [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) | `/13` ⬜️ |
 | [Book: The Tech Resume Inside Out](https://thetechresume.com/) | ⬜️ |
 | [Youtube: Sliding Window Technique - Algorithmic Mental Models](https://www.youtube.com/watch?v=MK-NZ4hN7rs) | ⬜️ |
 
@@ -27,11 +29,14 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 | [Article: Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://www.freecodecamp.org/news/command-line-for-beginners/) | ⬜️ |
+| [Article: Bash VS Zsh: Differences and Comparison](https://linuxhint.com/differences_between_bash_zsh/) | ⬜️ |
+| [Youtube: Linux command line](https://www.youtube.com/watch?v=JMT5CGFxa_4&list=PLy7Kah3WzqrHPrgkBgwzXyfDDCvthdUfl&index=2) | `4/113` ⬜️ |
+| [Youtube: Bash vs ZSH vs Fish: What's the Difference?](https://www.youtube.com/watch?v=dRdGq8khTJc) | ⬜️ |
 
 ### Version Control
 |Resource|Progress|
 |---|---|
-| [Boot Dev: Learn Git](https://www.boot.dev/courses/learn-git) | ⬜️ |
+| [Boot Dev: Learn Git](https://www.boot.dev/courses/learn-git) | `3/11` ⬜️ |
 
 ### Web Fundamentals
 |Resource|Progress|
